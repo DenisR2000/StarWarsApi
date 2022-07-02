@@ -1,0 +1,29 @@
+
+.active{
+    color: purple;
+}
+.header{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(31, 29, 34);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    top: 100px;
+    position:absolute;
+    color: yellow;
+    font-size: 70px;
+    font-family: sans-serif;
+}
+.about{
+    top: 186px;
+    position:absolute;
+    color: yellow;
+    font-size: 25px;
+    font-family: sans-serif;
+}

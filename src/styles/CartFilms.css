@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    overflow-y: scroll;
+    box-shadow: 0 0 23px rgb(140, 117, 240);
+    background-color: white;
+}
+.name{
+    color: grey;
+}
